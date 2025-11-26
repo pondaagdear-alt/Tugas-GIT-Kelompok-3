@@ -68,3 +68,37 @@ def muat_data():
     except FileNotFoundError:
         print("ℹ Tidak ditemukan file sebelumnya. Membuat baru...\n")
 
+# Menu Utama Program 
+
+def menu():
+    muat_data()  # memuat data saat aplikasi dibuka
+
+    while True:
+        print("===== Aplikasi To-Do List =====")
+        print("1. Tambah Tugas")
+        print("2. Tampilkan Tugas")
+        print("3. Edit Tugas")
+        print("4. Hapus Tugas")
+        print("5. Simpan Tugas")
+        print("6. Keluar\n")
+
+        pilihan = input("Pilih menu (1-6): ")
+
+        if pilihan == "1":
+            tambah_tugas()
+        elif pilihan == "2":
+            tampilkan_tugas()
+        elif pilihan == "3":
+            edit_tugas()
+        elif pilihan == "4":
+            hapus_tugas()
+        elif pilihan == "5":
+            simpan_data()
+        elif pilihan == "6":
+            print("Terima kasih telah menggunakan aplikasi!")
+            break
+        else:
+            print("✖ Pilihan tidak valid. Silakan pilih 1-6.\n")
+
+
+menu()
