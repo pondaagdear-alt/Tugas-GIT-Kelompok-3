@@ -3,7 +3,7 @@
 to_do_list = []
 
 def tambah_tugas():
-    tugas = input("Masukkan tugas baruZ: ")
+    tugas = input("Masukkan tugas baru: ")
     to_do_list.append(tugas)
     print("✔ Tugas berhasil ditambahkan.\n")
 
