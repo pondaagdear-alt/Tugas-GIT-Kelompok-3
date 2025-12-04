@@ -38,3 +38,32 @@ git clone https://github.com/username/nama-repo.git
 ```sh
 cd nama-repo
 ```
+
+## Panduan Menjalankan
+1. Install python dan pastikan python sudah terinstall dengan cara:
+   - Buka Command Prompt (Windows) atau Terminal (Mac/Linux).
+   - Ketik: python --version
+   atau python3 --version
+   - Jika muncul versi Python (misalnya: Python 3.10), berarti Python sudah terinstal. Jika tidak, instal dahulu dari: python.org.
+2. Unduh file kelompok3-todolist.py dari GitHub
+   - Buka link GitHub tempat file disimpan.
+   - Klik tombol Code lalu download ZIP.
+   - Simpan file di folder.
+3. Buka Command Prompt / Terminal
+   - Windows: tekan Win + R, ketik cmd, Enter
+   - Mac: klik Spotlight, ketik terminal
+   - Linux: buka Terminal melalui aplikasi
+4. Masuk ke folder tempat file berada
+   - Misalnya di folder Downloads, ketik: cd Downloads
+5. Jalankan program, buka file yang telah di download
+   - Ketik: kelompok3-todolist.py
+6. Program akan menampilkan menu
+    1. Tambah Tugas
+    2. Tampilkan Tugas
+    3. Edit Tugas
+    4. Hapus Tugas
+    5. Simpan Tugas
+    6. Keluar
+7. Ketik angka untuk memilih menu
+8. Ikuti instruksi yang ada hingga selesai
+9. Gunakan program sesuai kebutuhan
