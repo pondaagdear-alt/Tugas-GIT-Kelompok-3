@@ -32,7 +32,7 @@ python --version
 ```sh
 git clone https://github.com/username/nama-repo.git
 ```
-* Kemudian ganti "username/nama-repo" dengan Tugas-GIT-Kelompok_3
+* Kemudian ganti "username/nama-repo" dengan Tugas-GIT-Kelompok-3
 * Setelah itu, masuk ke folder program:
 
 ```sh
