@@ -67,3 +67,27 @@ cd nama-repo
 7. Ketik angka untuk memilih menu
 8. Ikuti instruksi yang ada hingga selesai
 9. Gunakan program sesuai kebutuhan
+
+## Flowchart
+```mermaid
+flowchart TD
+
+A([Mulai Program]) --> B[Muat Data dari to_do.txt]
+B --> C[Tampilkan Menu]
+C --> D{Pilihan User}
+
+D --> E[Tambah Tugas]
+D --> F[Tampilkan Tugas]
+D --> G[Edit Tugas]
+D --> H[Hapus Tugas]
+D --> I[Simpan Data]
+D --> J[Keluar Program]
+
+E --> C
+F --> C
+G --> C
+H --> C
+I --> C
+
+J --> K([Selesai])
+
