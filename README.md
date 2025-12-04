@@ -38,6 +38,3 @@ git clone https://github.com/username/nama-repo.git
 ```sh
 cd nama-repo
 ```
-```sh
-cd nama-repo
-```
