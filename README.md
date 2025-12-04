@@ -1,5 +1,5 @@
 # Tugas-GIT-Kelompok-3
-Repository Tugas GIT Kelompok 3 Proyek Kolaborasi Pyhton "To Do List"
+Repository Tugas GIT Kelompok 3 Proyek Kolaborasi Python "To Do List"
 
 # Aplikasi To Do List
 Aplikasi To Do List ini adalah aplikasi yang dibuat dengan tujuan mempermudah pengguna mengingat dan mengatur tugas yang akan dilakukan.
