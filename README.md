@@ -6,7 +6,7 @@ Aplikasi To Do List ini adalah aplikasi yang dibuat dengan tujuan mempermudah pe
 Aplikasi ini dibuat menggunakan bahasa pemrograman Python yang dapat di jalankan pada terminal/consol.
 
 
-## Features
+## Fitur dalam Aplikasi To Do List
 
 - Tambah Tugas 
 - Tampilkan Tugas
@@ -90,4 +90,13 @@ H --> C
 I --> C
 
 J --> K([Selesai])
+```
 
+## Anggota Kelompok
+
+| Nama | NIM | GitHub | 
+| ------ | ------ | ------ |
+| Dear Riandini Keiza Pondaag | 250211060055 | https://github.com/pondaagdear-alt |
+| Bradlee Richard Lovel Sarijowan | 250211060052 | https://github.com/Lee-IT25 |
+| Vania Wen Wen Tjoa | 250211060049 | https://github.com/VANIAWEN |
+| Brian Mac Kindangen | 250211060053 | https://github.com/briankindangen2006-cmyk |
